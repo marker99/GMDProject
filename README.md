@@ -1,4 +1,4 @@
-# GMDProject
+# GMD Project
 Pac-Man Themed Game for the GMD Course Project
 
 
