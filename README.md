@@ -20,6 +20,9 @@ https://assetstore.unity.com/packages/3d/animations/balloon-ghost-with-breakable
 Magic Effects FREE  
 https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933
 
+All Crowd Animations and Models taken from Mixamo  
+https://www.mixamo.com/#/
+
 ### Videos:
 How to make an Object Pooling System  
 https://www.youtube.com/watch?v=Mq2zYk5tW_E
